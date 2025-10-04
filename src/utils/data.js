@@ -8,7 +8,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 4,
-    img: "https://mdtian.github.io/Website-TokoMurahh/images/headphones.jpg",
+    img: "https://mdtian.github.io/Website-TokoMurahh/images/Headphones.jpg",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 5,
-    img: "https://mdtian.github.io/Website-TokoMurahh/images/smartwatch.jpg",
+    img: "https://mdtian.github.io/Website-TokoMurahh/images/Smartwatch.jpg",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 4,
-    img: "https://mdtian.github.io/Website-TokoMurahh/images/laptop.jpg",
+    img: "https://mdtian.github.io/Website-TokoMurahh/images/Laptop-Gaming.jpg",
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 4,
-    img: "https://mdtian.github.io/Website-TokoMurahh/images/smartphone.jpg",
+    img: "https://mdtian.github.io/Website-TokoMurahh/images/Smartphone.jpg",
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ export const products = [
     category: 2,
     category_name: "Fashion",
     rating: 3,
-    img: "https://mdtian.github.io/Website-TokoMurahh/images/tshirt.jpg",
+    img: "https://mdtian.github.io/Website-TokoMurahh/images/Kaos-Polos.jpg",
   },
   {
     id: 6,
@@ -63,6 +63,6 @@ export const products = [
     category: 2,
     category_name: "Fashion",
     rating: 4,
-    img: "https://mdtian.github.io/Website-TokoMurahh/images/neakers.jpg",
+    img: "https://mdtian.github.io/Website-TokoMurahh/images/Sneakers.jpg",
   }
 ];
