@@ -8,8 +8,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 4,
-    // URL yang sudah di-test bekerja
-    img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&w=300&h=200&fit=crop",
+    img: "./images/Headphones.jpg",
   },
   {
     id: 2,
@@ -20,7 +19,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 5,
-    img: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&w=300&h=200&fit=crop",
+    img: "./images/Smartwatch.jpg",
   },
   {
     id: 3,
@@ -31,7 +30,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 4,
-    img: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-4.0.3&w=300&h=200&fit=crop",
+    img: "./images/Laptop-Gaming.jpg",
   },
   {
     id: 4,
@@ -42,7 +41,7 @@ export const products = [
     category: 1,
     category_name: "Electronics",
     rating: 4,
-    img: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&w=300&h=200&fit=crop",
+    img: "./images/Smartphone.jpg",
   },
   {
     id: 5,
@@ -53,7 +52,7 @@ export const products = [
     category: 2,
     category_name: "Fashion",
     rating: 3,
-    img: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&w=300&h=200&fit=crop",
+    img: "./images/Kaos-Polos.jpg",
   },
   {
     id: 6,
@@ -64,6 +63,6 @@ export const products = [
     category: 2,
     category_name: "Fashion",
     rating: 4,
-    img: "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&w=300&h=200&fit=crop",
+    img: "./images/Sneakers.jpg",
   }
 ];
